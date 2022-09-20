@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @yukhanov
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Swift
-
+# Hi, I'm Sergey Yukhanov
+There are my projects by swift
