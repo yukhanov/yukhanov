@@ -5,7 +5,7 @@ There are my projects by swift
 **Мини-игра "Кто первый отгадает загаданное число"**
 <https://github.com/yukhanov/SurfIT>
 
-<img width="1388" alt="Снимок экрана 2022-09-14 в 15 48 52" src="https://user-images.githubusercontent.com/39123065/191178966-96f5cacf-4bd0-4cc8-8ebe-7f30e0c7ab4c.png">
+![Simulator Screen Shot - iPhone 12 Pro - 2022-09-20 at 11 01 00](https://user-images.githubusercontent.com/39123065/191179086-0727f313-edd3-445f-960c-e3b98a0c0184.png)
 
 - Экран старта игры
 - Экран загадывания числа
