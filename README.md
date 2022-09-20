@@ -1,8 +1,7 @@
 # Hi, I'm Sergey Yukhanov
 There are my projects by swift
 
-# 1
-**SurfIT**
+# 1. SurfIT
 **Мини-игра "Кто первый отгадает загаданное число"**
 <https://github.com/yukhanov/SurfIT>
 
