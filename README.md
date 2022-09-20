@@ -3,7 +3,11 @@ There are my projects by swift
 
 # 1. SurfIT
 **Мини-игра "Кто первый отгадает загаданное число"**
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-09-20 at 11 01 00](https://user-images.githubusercontent.com/39123065/191181451-f6fdf041-2481-4360-a2d5-2a917752940b.png)
+
 <https://github.com/yukhanov/SurfIT>
+
 
 - Экран старта игры
 - Экран загадывания числа
@@ -14,4 +18,8 @@ There are my projects by swift
 Использовал архитектуру MVC.
 Верстка исключительно через код.
 Реализован бинарный поиск.
+
+# 2. CameraMap
+**Доступ к онлайн камерам из разных уголков мира**
+
 
