@@ -1,7 +1,17 @@
 # Hi, I'm Sergey Yukhanov
 There are my projects by swift
 
-# 1. CryptoApp
+# CoctailApp
+
+Рецепты коктейлей, используя [API](https://www.thecocktaildb.com/).
+- верстка кодом
+- MVP
+- GCD
+- Networking
+
+<img src="https://github.com/yukhanov/coctailapp/blob/main/Screenshots/1.jpg" width="30%" /> <img src="https://github.com/yukhanov/coctailapp/blob/main/Screenshots/2.jpg" width="30%" /> <img src="https://github.com/yukhanov/coctailapp/blob/main/Screenshots/3.jpg" width="30%" />
+
+# CryptoApp
 Приложение с актуальной информацией по криптовалюте.
 - верстка кодом
 - без использования сторонних библиотек
@@ -14,7 +24,7 @@ There are my projects by swift
 
 <https://github.com/yukhanov/CryptoApp>
 
-# 2. SurfIT
+# SurfIT
 **Мини-игра "Кто первый отгадает загаданное число"**
 
 - Экран старта игры
@@ -31,7 +41,7 @@ There are my projects by swift
 
 <https://github.com/yukhanov/SurfIT>
 
-# 3. SearchPic
+# SearchPic
 Приложение, идея которого - это выдача изображений из Google по запросу, используя API https://serpapi.com/images-results.
 - верстка кодом
 - MVVM + C
@@ -42,7 +52,7 @@ There are my projects by swift
 
 
 
-# 4. CameraMap
+# CameraMap
 
 Приложение позволяет подключаться к онлайн камерам в разных уголках мира, выводит прогноз погоды и ставить Pin на карту, а также предоставляет краткую информацию об этой географической точке
 
